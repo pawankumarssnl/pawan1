@@ -1,2 +1,3 @@
-mu
-myserlf pawan ,am going to kanpur to study.
+hello '
+myself pawan ,.due to takneek i could not attend programming lecture .so i faced so much 
+difficuties in learning various terminal and git command  online
